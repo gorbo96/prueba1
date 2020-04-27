@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 27, 2020, 10:02:10 AM
+    Author     : BMGPC
+*/
+body {
+    resize: both;
+}
+header {
+    background-color: #303e4f;
+    float: left;
+    width: 100%;
+}
+header nav ul {
+    background-color: #b24334;
+    float: right;
+    display: inline-block;
+}
+div.izquierda {
+    width: 65%;
+    float: left;    
+}
+div.derecha {
+    width: 33%;
+    float: right;
+}
+header img {
+    width: 30%;
+    float: left;
+}
+header ul {
+    width: 45%;
+}
+a {
+    color: #ffffff;
+}
+header li {
+    padding: 30px;
+    margin: 0px;
+    list-style-image: url(nada.png);
+    width: 17%;
+}
+ul * {
+    float: left;
+}
+header ul {
+    margin-right: 10px;
+    height: 10%;
+}
+footer {
+    clear: both;
+    width: 100%;
+}
+article {
+    width: 100%;
+}
+footer nav ul {
+    background-color: #b24334;
+    float: left;
+    display: inline-block;
+}
+footer li {
+    padding: 20px;
+    margin: 0px;
+    list-style-image: url(nada.png);
+    width: 17%;
+}
+footer ul {
+    width: 30%;
+}
+footer div {
+    width: 100%;
+    background-color: #303e4f;
+}
+br {
+    color: #000000;
+}
